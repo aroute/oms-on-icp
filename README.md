@@ -604,7 +604,7 @@ demo@master:~$ sudo rm -r my-release-jenkins
 
 ## Module Six
 
-### Setup Order Management (OMS)
+### Setup OMS
 
 #### 6.1 Load OMS ppa archive
 
@@ -787,7 +787,7 @@ $ kubectl delete cm omsprod-ibm-oms-ent-prod-def-server-xml-conf
 $ kubectl delete pv oms-common
 ```
 
-# Upgrade & Scale Order Management on Cloud Private
+# Upgrade & Scale OMS on Cloud Private
 
 #### Phase 2
 
@@ -1005,7 +1005,7 @@ passw0rd
 
 
 
-# Exercise 3 - Prepare and deploy Order Management Helm Chart
+# Exercise 3 - Prepare and deploy OMS Helm Chart
 
 
 ## 3.1 Open Helm Chart in VSCode
